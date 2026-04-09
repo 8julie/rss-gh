@@ -8,7 +8,7 @@
 site_path = "/rss-gh/"
 
 # Title of the site
-title = "Julie's Liveboat Demo"
+title = "Julie's RSS feeds"
 
 # Update site url if you're planning on using aggregated OPML
 # channel Liveboat exposes.

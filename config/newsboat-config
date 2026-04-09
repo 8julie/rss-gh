@@ -1,6 +1,6 @@
 cleanup-on-quit yes
 feed-sort-order title-dec
-refresh-on-startup no
+refresh-on-startup yes
 reload-time 20
 reload-threads 2
 prepopulate-query-feeds yes

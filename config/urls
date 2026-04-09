@@ -1,5 +1,5 @@
 "query:Research:tags # \"dev\" and age < 2 and unread = \"yes\""
-"query:News:tags # \"yt\""
+"query:News:tags # \"news\""
 "query:Youtube channels:tags # \"yt\""
 "query:Blogs:tags # \"blogs\""
 
@@ -8,3 +8,4 @@
 "query:Podcasts:tags # \"podcast\" and unread = \"yes\"" -->
 
 https://www.youtube.com/feeds/videos.xml?channel_id=UC9FNChjzkeVpS85Z5ikmugQ yt bg
+https://news.google.com/rss/search?q=site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen news
